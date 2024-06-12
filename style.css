@@ -18,9 +18,11 @@ nav {
 margin: 20px 0;
 }
 nav a {
-margin: 0 10px;
+margin: 10px 10px 10px 10px;
 text-decoration: none;
 color: #333;
+background-color: turquoise;
+
 }
 main {
 margin: 20px 0;
@@ -39,7 +41,6 @@ align-items: stretch;
 }
 a {
 color: #7b78ff;
-background-color: turquoise;
 margin-top: 100px;
 text-decoration: underline;
 }
